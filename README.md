@@ -2,3 +2,5 @@
 
 
 [Jurnal_1301204504_Muhammad_Fachry_Gunawan.pdf](https://github.com/user-attachments/files/17062290/Jurnal_1301204504_Muhammad_Fachry_Gunawan.pdf)
+
+This study shows that the SIR model, which employs the4th-order Runge-Kutta numerical method, is capable of mod-eling the spread of Covid-19 in Padang City. Determining theparameters beta and gamma significantly impacts the modelaccuracy, where the optimal values are recorded as 0.906for beta and 0.803 for gamma, resulting in an error usingRMSE of 74.251. These results underscore the importanceof adjusting model parameters to the characteristics of thelocal pandemic. The insights from our model can aid publichealth officials in planning and resource allocation, partic-ularly in predicting the peak of infections and evaluatingintervention strategies. However, the study has limitations,including the assumption of homogeneous mixing and theexclusion of factors like age structure and mobility. Futureresearch should incorporate more complex models and real-time data to improve predictive accuracy and provide morecomprehensive insights for public health interventions.
